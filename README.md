@@ -65,7 +65,6 @@ scrape_ecommerce_example()
 web-scraping-beautiful-soup/
 │
 ├── web_scraping.py         # Script principal avec la classe WebScraper et les exemples
-├── requirements.txt       # Liste des dépendances
 ├── README.md              # Ce fichier
 ├── actualites.csv         # Fichier de sortie de l'exemple d'actualités
 └── livres.xlsx            # Fichier de sortie de l'exemple e-commerce
