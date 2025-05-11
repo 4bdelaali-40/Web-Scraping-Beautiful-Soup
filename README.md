@@ -3,7 +3,7 @@
 Un outil Python versatile pour extraire des données de sites web en utilisant Beautiful Soup et Requests.
 
 
-## ✨ Caractéristiques
+## Caractéristiques
 
 - Interface simple et intuitive
 - Extraction de données avec des sélecteurs CSS
@@ -19,7 +19,7 @@ Un outil Python versatile pour extraire des données de sites web en utilisant B
 pip install requests beautifulsoup4 pandas openpyxl
 ```
 
-## 📝 Utilisation
+## Utilisation
 
 Pour lancer le script principal :
 
@@ -29,7 +29,7 @@ python web_scraping.py
 
 Le programme vous présentera un menu interactif avec les exemples disponibles.
 
-## 🧪 Exemples inclus
+## Exemples inclus
 
 ### 1. Scraping d'un site d'actualités (Hacker News)
 
@@ -51,7 +51,7 @@ from web_scraper import WebScraper, scrape_ecommerce_example
 scrape_ecommerce_example()
 ```
 
-## 🔒 Bonnes pratiques
+## Bonnes pratiques
 
 - Respectez les conditions d'utilisation du site cible
 - Consultez le fichier `robots.txt` du site
@@ -59,7 +59,7 @@ scrape_ecommerce_example()
 - Utilisez des en-têtes HTTP appropriés
 - Ne surchargez pas les serveurs avec trop de requêtes
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 web-scraping-beautiful-soup/
